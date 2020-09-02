@@ -13,8 +13,8 @@ It has the following functionality:
 Download or clone the repository on your local machine.
 
 ```sh
-$ git clone https://github.com/AAdewunmi/Sort_Array_Descending_Order.git
-$ cd Sort_Array_Descending_Order
+$ git clone https://github.com/AAdewunmi/GroceryList_Project.git
+$ cd GroceryList_Project
 ```
 ## Console display : 
 ```sh
